@@ -1,3 +1,3 @@
-### For what it's worth.
+## For what it's worth.
 
-This page contains information...
+One more drop in the ocean of the internet.
