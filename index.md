@@ -1,4 +1,4 @@
-## Sterling 
+## Home 
 #### [Energy Production](https://oliwhi.github.io/sterling/energyproduction)
 
 #### [Propulsion](https://oliwhi.github.io/sterling/propulsion)
