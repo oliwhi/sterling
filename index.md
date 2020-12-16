@@ -1,5 +1,3 @@
-# Sterling
-
-### Fields of Interest
+### For what it's worth.
 
 This page contains information...
